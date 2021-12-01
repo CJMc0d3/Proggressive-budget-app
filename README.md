@@ -1,6 +1,15 @@
 # Proggressive-budget-app
 Giving offline functionality to a budgeting application
 
+# How to run
+To run this app you must run npm i in the terminal, then run npm start if you are cloning it.
+
+# Deployed application:
+
+https://secret-retreat-95064.herokuapp.com/
+
+
+
 # Unit 19 PWA: Online/Offline Budget Trackers
 
 Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
